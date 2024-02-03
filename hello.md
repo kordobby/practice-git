@@ -1,3 +1,1 @@
-@Hello
-@asdf
-@asdfsadf
+#init
