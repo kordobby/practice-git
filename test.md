@@ -21,8 +21,7 @@
 5. 새로운 브랜치에서 내용 변경3
 6. git merge main
 7. conflict 해결 - 한 번
-- incoming 을 받자
-- 하나만 accept 한다면?
+- both 가 아닌 하나만 받아보자
 8. merge commit > 메세지를 써야지
 9. git checkout main
 10. git merge branch
