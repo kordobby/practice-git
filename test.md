@@ -22,6 +22,7 @@
 6. git merge main
 7. conflict 해결 - 한 번
 - Incoming 을 받으면?
+- 어떤게 없어지는지 찾아보자
 8. merge commit > 메세지를 써야지
 9. git checkout main
 10. git merge branch
