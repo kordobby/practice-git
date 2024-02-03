@@ -21,9 +21,7 @@
 5. 새로운 브랜치에서 내용 변경3
 6. git merge main
 7. conflict 해결 - 한 번
-- test test
-- Incoming 을 받으면?
-- 어떤게 없어지는지 찾아보자
+- current 수정
 8. merge commit > 메세지를 써야지
 9. git checkout main
 10. git merge branch
