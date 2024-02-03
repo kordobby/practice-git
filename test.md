@@ -21,6 +21,7 @@
 4. 새로운 브랜치에서 내용 변경3
 5. git merge main
 6. conflict 해결 - 한 번
+- 어떤걸 받냐에 따라 달라지냐?
 7. merge commit > 메세지를 써야지
 8. git checkout main
 9. git merge branch
