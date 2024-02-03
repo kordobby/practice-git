@@ -21,3 +21,4 @@
 4. 새로운 브랜치에서 내용 변경3
 5. git merge main
 6. conflict 해결?
+7. 맞나?
