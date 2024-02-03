@@ -26,3 +26,5 @@
 9. git checkout main
 10. git merge branch
 11. 어떤게 받아지니?
+
+// main
