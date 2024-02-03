@@ -22,6 +22,7 @@
 6. git merge main
 7. conflict 해결 - 한 번
 - 어떤걸 받냐에 따라 달라지냐?
+- both accept 가 되면?
 8. merge commit > 메세지를 써야지
 9. git checkout main
 10. git merge branch
