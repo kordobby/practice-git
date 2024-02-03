@@ -20,6 +20,7 @@
 4. 새로운 브랜치에서 내용 변경2
 4. 새로운 브랜치에서 내용 변경3
 5. git merge main
-5-1. 이게 맞냐
-6. conflict 해결?
-7. 맞나?
+6. conflict 해결
+7. merge commit
+8. git checkout main
+9. git merge branch
