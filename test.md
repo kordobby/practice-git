@@ -7,6 +7,7 @@
 6. conflict 해결
 6-1. conflict 해결
 6-2. conflict 해결
+6-3. conflict 해결
 7. git rebase --continue
 8. git checkout main
 9. git merge 아까그브랜치
